@@ -20,10 +20,10 @@ header {
     align-items: center;
     background-color: #eee;
 }
-#nav-bar{
+/* #nav-bar{
    position: fixed;
    top: 0;
-}
+} */
 .logo {
     width: 60vw;
     flex-basis: calc(33.33% - 20px);
